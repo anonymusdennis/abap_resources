@@ -1,7 +1,0 @@
-CLASS cl_abap_complexdescr DEFINITION PUBLIC INHERITING FROM cl_abap_datadescr.
-  PUBLIC SECTION.
-ENDCLASS.
-
-CLASS cl_abap_complexdescr IMPLEMENTATION.
-
-ENDCLASS.

@@ -1,7 +1,0 @@
-CLASS cx_oa2c_at_not_available DEFINITION PUBLIC INHERITING FROM cx_oa2c.
-  PUBLIC SECTION.
-ENDCLASS.
-
-CLASS cx_oa2c_at_not_available IMPLEMENTATION.
-
-ENDCLASS.

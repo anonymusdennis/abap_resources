@@ -1,3 +1,0 @@
-INTERFACE if_sender_bcs PUBLIC.
-
-ENDINTERFACE.

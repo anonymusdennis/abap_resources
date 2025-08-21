@@ -1,7 +1,0 @@
-CLASS cx_shm_attach_error DEFINITION PUBLIC INHERITING FROM cx_shm_error.
-
-ENDCLASS.
-
-CLASS cx_shm_attach_error IMPLEMENTATION.
-
-ENDCLASS.

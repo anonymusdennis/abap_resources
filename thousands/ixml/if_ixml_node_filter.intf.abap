@@ -1,3 +1,0 @@
-INTERFACE if_ixml_node_filter PUBLIC.
-
-ENDINTERFACE.

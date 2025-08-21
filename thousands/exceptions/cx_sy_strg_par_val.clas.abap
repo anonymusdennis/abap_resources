@@ -1,6 +1,0 @@
-CLASS cx_sy_strg_par_val DEFINITION PUBLIC INHERITING FROM cx_dynamic_check.
-  PUBLIC SECTION.
-ENDCLASS.
-
-CLASS cx_sy_strg_par_val IMPLEMENTATION.
-ENDCLASS.
